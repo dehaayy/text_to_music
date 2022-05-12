@@ -19,5 +19,5 @@ Additional argument that can be added (order does not matter)
 
 🎹 "/" Default uses all notes in the "4" range, "/" notation uses the 1st argument note in an octave higher (can be stacked)
 
-🎹 "\" uses the 1st argument note in an octave lower (can be stacked)
+🎹 "\\" uses the 1st argument note in an octave lower (can be stacked)
 

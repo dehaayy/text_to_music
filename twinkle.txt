@@ -1,4 +1,4 @@
-(1/16) C C G G A A (1/5) G (1/16) F F E E D D (1/5) C (1/16)
-G G F F E E (1/5) D (1/16) 
-G G F F E E (1/5) D (1/16) 
-C C G G A A (1/5) G (1/16) F F E E D (1/5) D C
+(1) C C G G A A (2) G (1) F F E E D D (2) C (1)
+G G F F E E (2) D (1) 
+G G F F E E (2) D (1) 
+C C G G A A (2) G (1) F F E E D (2) D C
